@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Master branch editing this line
-=======
-FeatureA branch editing this line
->>>>>>> featureA
+This is about DevOps learning
